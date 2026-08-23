@@ -1,3 +1,5 @@
+Donation pls bc1qlc9yz0qvfkumeqy26wm22svmcut9x0asdnl4r4 BTC
+ 
  ⚙️ Multi-Lang to EXE Compiler
 
 A modern, dark-themed GUI tool that turns source code into standalone Windows `.exe` files — supporting **Python, C#/.NET, Node.js, and Go** in a single app.
